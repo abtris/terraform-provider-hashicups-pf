@@ -2,7 +2,7 @@ module terraform-provider-hashicups-pf
 
 go 1.23.7
 
-toolchain go1.25.1
+toolchain go1.26.0
 
 require (
 	github.com/hashicorp-demoapp/hashicups-client-go v0.1.0
