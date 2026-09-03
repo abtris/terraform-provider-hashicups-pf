@@ -1,6 +1,6 @@
 module terraform-provider-hashicups-pf
 
-go 1.24.0
+go 1.25.0
 
 toolchain go1.26.0
 
@@ -9,7 +9,7 @@ require (
 	github.com/hashicorp/terraform-plugin-docs v0.24.0
 	github.com/hashicorp/terraform-plugin-framework v1.14.1
 	github.com/hashicorp/terraform-plugin-go v0.28.0
-	github.com/hashicorp/terraform-plugin-log v0.10.0
+	github.com/hashicorp/terraform-plugin-log v0.11.0
 	github.com/hashicorp/terraform-plugin-testing v1.11.0
 )
 
